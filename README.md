@@ -1,11 +1,31 @@
-# Start your own "Can of Books" App
+# Can of Books
 
-This repository has starter code to begin work on creating your own online bookshelf.
+**Authors**: Justin Hamerly, Tray Chea, Kason Braley
 
-## What can books do?
+**Version**: 1.0.0 
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+## Overview
+An application to track what books have impacted you, and what’s recommended to read next.
 
-## Use this template
+## Getting Started
+1. Clone the project
+2. `cd` into the local project folder
+3. run `npm install`
+4. run `npm start`
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+## Architecture
+
+Libraries:
+`express`
+`cors`
+`axios`
+`dotenv`
+
+## Change Log
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
+
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+
+## Estimates
+
+## Credit and Collaborations
